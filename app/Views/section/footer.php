@@ -28,8 +28,7 @@
 					<h4 class="text-capitalize mb-4 has-text-white">Suivez nous</h4>
 					<ul class="list-unstyled footer-socials">
 						<li><a href="https://m.facebook.com/people/Ashura-House-Sarl/100064166617629/"><i class="ti-facebook mr-2 text-muted"></i>facebook</a></li>
-						<li><a href="#"><i class="ti-twitter mr-2 text-muted"></i>Twitter</a></li>
-						<li><a href="#"><i class="ti-instagram mr-2 text-muted"></i>instagram</a></li>
+						<li><a href="https://www.youtube.com/@ashurahousesarl"><i class="ti-youtube mr-2 text-muted"></i>youtube</a></li>
 					</ul>
 					
 				</div>

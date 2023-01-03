@@ -2,11 +2,12 @@
 //include('headerContact.php');
 
 ?>
+<a name="contact"></a>
 <section class="contact-form-wrap section">
    <div class="container">
       <div class="columns is-justify-content-center mt-5">
          <div class="column is-8-widescreen is-10-desktop has-text-centered mt-4">
-            <form action="#" method="POST">
+            <form action="" method="POST">
 
                <!-- form message -->
                <?php
